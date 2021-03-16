@@ -57,5 +57,5 @@
 [twitter]: https://twitter.com/RaghavG_2001
 [linkedin]: https://www.linkedin.com/in/raghav-gupta-538557167/
 [dev.to]: https://dev.to/raghavgupta70/
-[discord]: https://discord.gg/ttv.Lazarbeam_69#6969
+[discord]: https://discord.gg/ttv.Lazarbeam_69
 
