@@ -50,7 +50,7 @@
   <img align="left" height="200" position="inline-block" width="420" src="https://github-readme-stats.vercel.app/api?username=RaghavGupta70&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 </a>
 <a href="">
-  <img align="right" position="inline-block" width="370" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavGupta70&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+  <img align="right"  height="200"  position="inline-block" width="370" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavGupta70&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 </a>
 
 
