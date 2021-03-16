@@ -17,7 +17,7 @@
 
 ### Connect with me:
 [<img align="left" alt="Twitter" src="https://img.shields.io/twitter/follow/sk4rn?color=blue&label=%40sk4rn&logo=twitter&style=for-the-badge"/>][twitter]
-[<img align="left" alt="Website" src="https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_message=online&url="/>][website]
+
 [<img align="left" alt="Discord" src="https://img.shields.io/discord/384024830988648450?color=blue&label=Discord&logo=discord&style=for-the-badge"/>][discord]
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 [<img align="left" alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>][dev.to]
@@ -34,10 +34,10 @@
 <img align="left" alt="MySQL" src="https://icongr.am/devicon/mysql-original-wordmark.svg" />
 <img align="left" alt="Git" src="https://icongr.am/devicon/git-original-wordmark.svg"/>
 <img align="left" alt="GitHub" src="https://icongr.am/devicon/github-original-wordmark.svg" />
-<img align="left" alt="C++" src="https://icongr.am/devicon/cplusplus-original.svg?size=90&color=currentColor" />
+<img align="left" alt="C++" src="https://icongr.am/devicon/cplusplus-original.svg?size=10&color=currentColor" />
 <img align="left" alt="Linux" src="https://icongr.am/devicon/ubuntu-plain-wordmark.svg" />
 <img align="left" alt="Bootstrap" src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg" />
-<img align="left" alt="C#" src="https://icongr.am/devicon/csharp-original.svg?size=90&color=currentColor" />
+<img align="left" alt="C#" src="https://icongr.am/devicon/csharp-original.svg?size=10&color=currentColor" />
 <img align="left" alt="C" src="https://icongr.am/devicon/c-original.svg" />
 <img align="left" alt="Solidity" src="https://worldvectorlogo.com/logo/solidity.svg" />
 <br />
