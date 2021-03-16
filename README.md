@@ -1,6 +1,6 @@
-## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> My name is Raghav Gupta and I am having a keen interest in development and enthusiastic towards BlockChain . 
+## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> My name is Raghav Gupta and I am having a keen interest in Game Development even enthusiastic towards Blockchain and its realted ecosystems . 
 
-### I'm a Game Developer, BlockChain Enthusiast, Web Developer, a CSE Undergrad Student.
+### My major areas of work are Game Dev, BlockChain/Ethereum, Web Dev. I am currently a CSE Undergrad Student.
 
 - 🌱 I’m currently learning C#,ReactJS,Solidity and exploring more about BlockChain and Ethereum based ecosystems.
 - 👯 I’m looking to collaborate on projects based on what I'm learning right now
