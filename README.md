@@ -34,10 +34,10 @@
 <img align="left" alt="MySQL" src="https://icongr.am/devicon/mysql-original-wordmark.svg" />
 <img align="left" alt="Git" src="https://icongr.am/devicon/git-original-wordmark.svg"/>
 <img align="left" alt="GitHub" src="https://icongr.am/devicon/github-original-wordmark.svg" />
-<img align="left" alt="C++" src="https://icongr.am/devicon/cplusplus-original.svg?size=10&color=currentColor" />
+<img align="left" alt="C++" src="https://icongr.am/devicon/cplusplus-original.svg?size=40&color=currentColor" />
 <img align="left" alt="Linux" src="https://icongr.am/devicon/ubuntu-plain-wordmark.svg" />
 <img align="left" alt="Bootstrap" src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg" />
-<img align="left" alt="C#" src="https://icongr.am/devicon/csharp-original.svg?size=10&color=currentColor" />
+<img align="left" alt="C#" src="https://icongr.am/devicon/csharp-original.svg?size=40&color=currentColor" />
 <img align="left" alt="C" src="https://icongr.am/devicon/c-original.svg" />
 <img align="left" alt="Solidity" src="https://worldvectorlogo.com/logo/solidity.svg" />
 <br />
