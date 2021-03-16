@@ -16,7 +16,7 @@
 - 👯 I’m looking to collaborate on [Hackathons](https://devpost.com/hackathons). If you like my profile, feel free to get in touch with me!
 
 ### Connect with me:
-[<img align="left" alt="Twitter" src="https://img.shields.io/twitter/follow/RaghavG_2001?color=blue&label=%40sk4rn&logo=twitter&style=for-the-badge"/>][twitter]
+[<img align="left" alt="Twitter" src="https://img.shields.io/twitter/follow/RaghavG_2001?color=blue&label=%40RaghavG_2001&logo=twitter&style=for-the-badge"/>][twitter]
 
 [<img align="left" alt="Discord" src="https://img.shields.io/discord/384024830988648450?color=blue&label=Discord&logo=discord&style=for-the-badge"/>][discord]
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
