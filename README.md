@@ -39,7 +39,7 @@
 <img align="left" alt="Bootstrap" src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg" />
 <img align="left" alt="C#" src="https://icongr.am/devicon/csharp-original.svg?size=30&color=currentColor" />
 <img align="left" alt="C" src="https://icongr.am/devicon/c-original.svg" />
-<img align="left" alt="Solidity" src="https://worldvectorlogo.com/logo/solidity" />
+<img align="left" alt="Solidity" src="file:///C:/Users/ragha/Downloads/solidity.svg" />
 <br />
 <br />
 
